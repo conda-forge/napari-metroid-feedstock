@@ -1,11 +1,11 @@
-About napari-metroid
-====================
+About napari-metroid-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-metroid-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/zoccoler/napari-metroid
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-metroid-feedstock/blob/main/LICENSE.txt)
 
 Summary: This napari plugin creates several regions of interest of similar area over cells in a fluorescence video (2D+time).
 It then gets ROIs means over time and performs signal denoising: fixes photobleaching and separates signal from
@@ -98,7 +98,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
